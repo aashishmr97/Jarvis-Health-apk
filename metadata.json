@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Adaptive Personal Trainer",
+  "description": "Adaptive personal trainer answering 'What should I do today, and why?' with progressive overload, guided workouts, voice coaching, nutrition engine, and coaching memory.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
